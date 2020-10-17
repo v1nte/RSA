@@ -1,4 +1,4 @@
-#Desinged by VVL
+#Desinged by v1nte
 
 import math
 import sys
